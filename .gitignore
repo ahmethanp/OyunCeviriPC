@@ -1,0 +1,11 @@
+# .NET Build Outputs
+bin/
+obj/
+*.user
+*.suo
+.vs/
+
+# Runtime User Data & Downloaded Dictionaries
+settings.json
+translation_cache.json
+game_dicts/
